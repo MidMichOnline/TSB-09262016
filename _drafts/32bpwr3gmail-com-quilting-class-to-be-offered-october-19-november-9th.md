@@ -12,6 +12,7 @@ wide_assets:
 tags: [ ]
 categories: [ ]
 ---
+#Quilting Class to be offered October 19 &#8211; November 9th
 The <a href="http://www.shepherdhistory.org/business-directory/568/shepherd-united-methodist-church">Shepherd United Methodist Church</a> has announced on its Facebook page that it will be hosting a <a href="http://www.shepherdhistory.org/event/quilting-class/">Quilting Class </a>Wednesday nights from 6:30 - 8:30 p.m. between October 19 and November 9th.
 
 Anybody who is interested or would like to find out more information are welcomed to contact Merrie Hammel at 989-828-5415.
