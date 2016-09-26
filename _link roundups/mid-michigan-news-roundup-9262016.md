@@ -16,6 +16,7 @@ categories:
 afap_auto_post:
   - 'yes'
 ---
+## Mid Michigan News Roundup 9/26/2016
 [rounduplink id="578" title="Day of Play allows families to get active while having funEdit"]
 
 [rounduplink id="577" title="2016 Zonta Applefest Fun RunEdit"]
