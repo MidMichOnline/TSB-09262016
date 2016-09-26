@@ -12,6 +12,7 @@ wide_assets:
 tags: [ ]
 categories: [ ]
 ---
+## Women's Self Defense Seminar to take place October 15th
 <em>From the <a href="">Shepherd Police Department</a>:</em>
 
 <blockquote>The month of October is Domestic Violence Awareness Month. It is very appropriate that we will be hosting our first Women's Self Defense Seminar on October 15th with sessions at 8AM and 10AM. The seminar will take place at the Shepherd High School wrestling room. The cost is a suggested donation of $10 (100% of the donations will be donated to a local charity). You must be at least 18 years old to attend.
