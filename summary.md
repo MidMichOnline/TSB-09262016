@@ -7,4 +7,5 @@
 
 ##Mid Michigan
 * [Video shares new information about the Mid Michigan Community Pathways Project](_drafts/32bpwr3gmail-com-video-shares-new-information-about-the-mid-michigan-community-pathways-project.md)
+* [Mid Michigan Roundup 9/26/2016](midmichiganroundup09262016.md)
 
