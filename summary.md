@@ -1,6 +1,7 @@
 # Contents
 
 * [1](_drafts/32bpwr3gmail-com-quilting-class-to-be-offered-october-19-november-9th.md)
-* [2](_drafts/32bpwr3gmail-com-photos-from-the-shepherd-youth-football-program.md)
+* [Photos from the Shepherd Youth Football Program
+](_drafts/32bpwr3gmail-com-photos-from-the-shepherd-youth-football-program.md)
 * [3](_drafts/32bpwr3gmail-com-womens-self-defense-seminar-to-take-place-october-15th.md)
 
