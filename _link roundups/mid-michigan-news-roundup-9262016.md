@@ -2,15 +2,19 @@
 ID: 643
 post_title: Mid Michigan News Roundup 9/26/2016
 author: Jon Morgan
-post_date: 2016-09-25 22:29:53
+post_date: 2016-09-25 22:31:26
 post_excerpt: ""
 layout: roundup
-permalink: 'http://www.shepherdhistory.org/?post_type=roundup&p=643'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/blog/roundup/mid-michigan-news-roundup-9262016/
+published: true
 wide_assets:
-  - 'a:1:{i:0;s:0:"";}'
+  - ""
 tags: [ ]
-categories: [ ]
+categories:
+  - Mid Michigan News
+afap_auto_post:
+  - 'yes'
 ---
 [rounduplink id="578" title="Day of Play allows families to get active while having funEdit"]
 
